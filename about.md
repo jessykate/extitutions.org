@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: About the Group
 ---
-
-# About the group
 
 ## Institutional
 
