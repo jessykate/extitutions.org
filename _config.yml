@@ -1,3 +1,7 @@
 remote_theme: patdryburgh/hitchens
 hide_search: true
 hide_credits: true
+show_excerpts: true
+
+excerpt_length: 20 
+#excerpt length can also be arbitrary - see how here https://jekyllrb.com/docs/posts/#post-excerpts
