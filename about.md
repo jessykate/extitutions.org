@@ -3,9 +3,9 @@ layout: page
 title: About Extitutional Theory
 ---
 
-Social dynamics have been studied and conceptualised from numerous perspectives, including economics, politics, law, sociology and social psychology. Extitutional theory builds upon assemblage theory to conceptualise the ordering logic and dynamics of social phenomena.
+Social dynamics have been studied and conceptualised from numerous perspectives, including economics, politics, law, sociology and social psychology. Extitutional theory builds upon [assemblage theory](https://en.wikipedia.org/wiki/Assemblage_theory) to conceptualise the ordering logic and dynamics of social phenomena.
 
-Extitutions are not the opposite of institutions, nor can they be understood as a new type of institution. Extitutional scholars[1][2][3] suggest that institutional theory and extitutional theory are two distinct perspectives or “lenses” to the same set of social phenomena or “assemblage”. They contend that institutions and extitutions are both normative constructions focusing on specific ordering logics and social dynamics. These normative constructions characterise—but also limit—the set of social phenomena that can be seen and therefore analysed through their respective lenses.
+Extitutions are not the opposite of institutions, nor can they be understood as a new type of institution. Extitutional scholars suggest that institutional theory and extitutional theory are two distinct perspectives or “lenses” to the same set of social phenomena or “assemblage”. They contend that institutions and extitutions are both normative constructions focusing on specific ordering logics and social dynamics. These normative constructions characterise—but also limit—the set of social phenomena that can be seen and therefore analysed through their respective lenses.
 
 Extitutional theory claims that no one lens can fully capture and study the entire complexity of social phenomena. The same social phenomena could be characterised as an institution, an extitution, or both, depending on the perspective.
 
