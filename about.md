@@ -1,16 +1,16 @@
 ---
 layout: page
-title: About
+title: About Extitutional Theory
 ---
 
-Social dynamics can be analysed and conceptualised from many different perspectives,  including economics, politics, law, sociology and social psychology. Different social ontological theories have been devised to analyse and comprehend these dynamics. 
+Social dynamics have been studied and conceptualised from numerous perspectives, including economics, politics, law, sociology and social psychology. Extitutional theory builds upon assemblage theory to conceptualise the ordering logic and dynamics of social phenomena.
 
-Extitutional theory builds on [assemblage theory](https://en.wikipedia.org/wiki/Assemblage_theory) and suggests that institutions and extitutions are both just lenses on the same set of social dynamics. The theory contends these lenses are **normative constructions designed to see a specific set of ordering logics** which characterize but also limit the set of behaviours which can be reasoned about through that lens. By positioning institutions as a specific lens, we can also begin to construct other lenses, designed to look for categorically different ordering logics, yet which also exhibit properties of stable coherence and persistent dynamics. 
+Extitutions are not the opposite of institutions, nor can they be understood as a new type of institution. Extitutional scholars[1][2][3] suggest that institutional theory and extitutional theory are two distinct perspectives or “lenses” to the same set of social phenomena or “assemblage”. They contend that institutions and extitutions are both normative constructions focusing on specific ordering logics and social dynamics. These normative constructions characterise—but also limit—the set of social phenomena that can be seen and therefore analysed through their respective lenses.
 
-Extitutional theorists claim that some social phenomena are more richly described through other lenses, and in particular that the ‘extitutional’ lens looks at a set of social dynamics which are insufficiently addressed by most institutional frameworks, while also increasing in prevalence. 
+Extitutional theory claims that no one lens can fully capture and study the entire complexity of social phenomena. The same social phenomena could be characterised as an institution, an extitution, or both, depending on the perspective.
 
-Extitutions are not the opposite of institutions, nor are they a new type of institution. Rather, the extitutional lens focuses on the ways in which participation and mutual recognition pull people into alignment through local interactions. These local interactions constitute the basis for a distinct set of ordering dynamics, which are the focus of extitutional theory.
+While the institutional lens focuses on the roles and rules that shape and influence social interactions, the extitutional lens focuses on individuals and the relationships amongst them. Specifically, the extitutional lens focuses on the ways in which participation and mutual recognition pull people into alignment through local interactions. These local interactions constitute the basis for a distinct set of ordering dynamics which are the focus of extitutional theory.
 
-Establishing a theory of social dynamics beyond the existing institutional framework creates an opportunity to explore the specific properties and dynamics of both institutions and extitutions, as well as the interplay and dynamics between them. 
+Without claiming that one lens is more accurate than the other, extitutional theorists contend that some social phenomena can only be fully understood through a combination of institutional and extitutional analysis. This is because certain ordering logics which are specific to extitutions are insufficiently addressed (or even ignored) by most institutional frameworks, despite the important role they play in animating the institution.
 
-While institutions are characterized by constitutive rules and roles, Extitutions are characterised by people and the relationships amongst them. While rules and roles might also exist within an extitution, they are not constitutive elements of it. At the same time, people and relationships are a necessary but insufficient condition for the establishment of an extitution. Other factors need to be present, such as (gravity) and (participation) and (recognition).
+Extitutional theory establishes a new theoretical framework for the study of social dynamics that extends beyond the existing institutional framework. Comparing and analysing the interplay between these two frameworks creates an opportunity to achieve a more complete understanding of the underlying ordering logics that characterise many of our social phenomena.
