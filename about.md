@@ -3,6 +3,8 @@ layout: page
 title: About Extitutional Theory
 ---
 
+![](/assets/rabbit-hand-projection.jpeg)
+
 Social dynamics have been studied and conceptualised from numerous perspectives, including economics, politics, law, sociology and social psychology. Extitutional theory builds upon [assemblage theory](https://en.wikipedia.org/wiki/Assemblage_theory) to conceptualise the ordering logic and dynamics of social phenomena.
 
 Extitutions are not the opposite of institutions, nor can they be understood as a new type of institution. Extitutional scholars suggest that institutional theory and extitutional theory are two distinct perspectives or “lenses” to the same set of social phenomena or “assemblage”. They contend that institutions and extitutions are both normative constructions focusing on specific ordering logics and social dynamics. These normative constructions characterise—but also limit—the set of social phenomena that can be seen and therefore analysed through their respective lenses.
@@ -14,3 +16,5 @@ While the institutional lens focuses on the roles and rules that shape and influ
 Without claiming that one lens is more accurate than the other, extitutional theorists contend that some social phenomena can only be fully understood through a combination of institutional and extitutional analysis. This is because certain ordering logics which are specific to extitutions are insufficiently addressed (or even ignored) by most institutional frameworks, despite the important role they play in animating the institution.
 
 Extitutional theory establishes a new theoretical framework for the study of social dynamics that extends beyond the existing institutional framework. Comparing and analysing the interplay between these two frameworks creates an opportunity to achieve a more complete understanding of the underlying ordering logics that characterise many of our social phenomena.
+
+![](/assets/extitution-institution-lenses.jpeg)
