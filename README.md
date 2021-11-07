@@ -1,7 +1,10 @@
 # extitutions
 
+This site is built with the static site generator
+[Jekyll](https://jekyllrb.com/) and hosted using [github pages](https://pages.github.com/). 
+
 To create a new post:
-- navigate to the [_posts](https://github.com/jessykate/extitutions/tree/gh-pages/_posts) directory
+- navigate to the [`_posts`](https://github.com/jessykate/extitutions/tree/gh-pages/_posts) directory
 - follow the instructions. 
 - the green "commit" button will cause the live website to be updated.
 
