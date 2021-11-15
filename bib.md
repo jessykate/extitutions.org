@@ -3,7 +3,11 @@ layout: page
 title: Readings
 ---
 
-Key readings in extitutional theory. This page will be updated from time to time. 
+# Publications
+"Extitutional Theory," Primavera di Filippi and Marc Santolini (2021, forthcoming)
+
+# Readings
+Key readings that have informed extitutional theory. This page will be updated from time to time. 
 
 1. "A New Philosophy of Society," DeLanda
 1. "Assemblage Theory," Delanda
