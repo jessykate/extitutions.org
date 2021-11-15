@@ -8,19 +8,19 @@ Key readings in extitutional theory. This page will be updated from time to time
 1. "A New Philosophy of Society," DeLanda
 1. "Assemblage Theory," Delanda
 1. Subjects from "A Thousand Plateaus" and "Anti-Oedipus" (Deleuze and Guattari)
-  1. Introduction: Rhizome
-  1. Lines of Flight
-  1. Geology of Morals
-  1. The aspects of the assemblage
-  1. Theorems of deterritorialization
-  1. Territoriality, assemblages, and inter-assemblages
-  1. Urstaat
+    1. Introduction: Rhizome
+    1. Lines of Flight
+    1. Geology of Morals
+    1. The aspects of the assemblage
+    1. Theorems of deterritorialization
+    1. Territoriality, assemblages, and inter-assemblages
+    1. Urstaat
 1. On institutions:
-  1. "What are Institutions," Hogson
-  1. "What is an Institution," Searle
-  1. "Institutions," Douglass North
-  1. "Bureacracy, Collegiality and Social Change," Lazega
-  1. "Doing Institutional Analysis: Digging Deeper Than Markets and Hierarchies," Ostrom
+    1. "What are Institutions," Hogson
+    1. "What is an Institution," Searle
+    1. "Institutions," Douglass North
+    1. "Bureacracy, Collegiality and Social Change," Lazega
+    1. "Doing Institutional Analysis: Digging Deeper Than Markets and Hierarchies," Ostrom
 1. "Homo Sacer," Agamben
 1. "The Cybernetic Hypothesis," Tiqqun
 1. Before the Law: Encounters at the Borderline (in New Critical Legal Theory)
